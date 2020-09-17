@@ -1,4 +1,7 @@
-# Write your code here
+""" Script: game_with_AI.py
+When run, this script plays rock-paper-scissors against the user.  The result is recorded into a database and can be
+recalled and compared against other logged users.
+"""
 import random
 import sqlite3
 
